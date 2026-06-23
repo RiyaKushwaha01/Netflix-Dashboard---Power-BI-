@@ -12,7 +12,7 @@ This project visualizes Netflix’s global catalog of movies and TV shows using 
 
 - Visualization: Power BI and DAX
 
-*Language: SQL
+- Language: SQL
 
 
 **Insights**
